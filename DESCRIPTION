@@ -1,0 +1,10 @@
+Package: TobiTest
+Type: Package
+Title: OpenCPU Test
+Version: 0.1
+Date: 2015-08-22
+Author: Tobi B
+Maintainer: Tobi B <abosede2@jhu.edu>
+Description: gives the sum of two numbers
+License: MIT
+LazyData: TRUE
